@@ -1,0 +1,1577 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>ling.li</o:Author><o:LastAuthor>ASUS</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>4</o:Pages><o:Characters>3763</o:Characters><o:Lines>31</o:Lines><o:Paragraphs>8</o:Paragraphs><o:Company>China</o:Company></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.8612</o:KSOProductBuildVer></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Print</w:View><w:Compatibility><w:DontGrowAutofit/><w:BalanceSingleByteDoubleByteWidth/><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="35"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="10"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="11"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="20"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Calibri";
+}
+
+@font-face{
+font-family:"华文行楷";
+}
+
+@font-face{
+font-family:"华文楷体";
+}
+
+@font-face{
+font-family:"微软雅黑";
+}
+
+@list l0:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:0.0000pt;
+mso-level-number-position:left;
+margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
+text-indent:0.0000pt;
+font-family:'Times New Roman';}
+
+@list l0:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l0:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l0:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l0:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l0:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l0:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l0:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l0:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-noshow:yes;
+mso-style-parent:"";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:none;
+text-align:justify;
+text-justify:inter-ideograph;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;
+mso-font-kerning:1.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:'Times New Roman';
+}
+
+span.16{
+font-family:'Times New Roman';
+}
+
+span.17{
+font-family:'Times New Roman';
+}
+
+span.18{
+font-family:'Times New Roman';
+}
+
+span.19{
+font-family:'Times New Roman';
+}
+
+span.20{
+font-family:'Times New Roman';
+font-weight:bold;
+}
+
+span.21{
+font-family:'Times New Roman';
+}
+
+span.22{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+span.23{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+span.24{
+font-family:'Times New Roman';
+}
+
+span.25{
+font-family:'Times New Roman';
+}
+
+span.26{
+font-family:'Times New Roman';
+color:rgb(128,0,128);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.27{
+font-family:'Times New Roman';
+}
+
+span.28{
+font-family:'Times New Roman';
+}
+
+span.29{
+font-family:'Times New Roman';
+font-size:9.0000pt;
+}
+
+span.30{
+font-family:'Times New Roman';
+}
+
+span.31{
+font-family:'Times New Roman';
+}
+
+span.32{
+font-family:'Times New Roman';
+}
+
+span.33{
+font-family:'Times New Roman';
+}
+
+span.34{
+font-family:'Times New Roman';
+}
+
+span.35{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.36{
+font-family:'Times New Roman';
+}
+
+span.37{
+font-family:'Times New Roman';
+}
+
+span.38{
+font-family:'Times New Roman';
+}
+
+span.39{
+font-family:'Times New Roman';
+}
+
+span.40{
+font-family:'Times New Roman';
+}
+
+span.41{
+font-family:'Times New Roman';
+font-weight:bold;
+}
+
+span.42{
+font-family:'Times New Roman';
+}
+
+span.43{
+font-family:'Times New Roman';
+}
+
+span.44{
+font-family:'Times New Roman';
+font-weight:bold;
+}
+
+p.MsoFooter{
+mso-style-name:页脚;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+layout-grid-mode:char;
+mso-pagination:none;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.MsoAcetate{
+mso-style-name:批注框文本;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:none;
+text-align:justify;
+text-justify:inter-ideograph;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.MsoHeader{
+mso-style-name:页眉;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.7500pt solid windowtext;
+padding:0pt 0pt 1pt 0pt ;
+layout-grid-mode:char;
+mso-pagination:none;
+text-align:center;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.0000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.50{
+mso-style-name:"普通\(网站\) Char Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.51{
+mso-style-name:"p Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.52{
+mso-style-name:"普通\(网站\) Char Char Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.53{
+mso-style-name:"HTML 预设格式 Char Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.54{
+mso-style-name:"普通\(网站\) Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.55{
+mso-style-name:列出段落1;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-indent:21.0000pt;
+mso-char-indent-count:2.0000;
+mso-pagination:none;
+text-align:justify;
+text-justify:inter-ideograph;
+font-family:Calibri;
+mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;
+mso-font-kerning:1.0000pt;
+}
+
+p.56{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.57{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.58{
+mso-style-name:"HTML 预设格式 Char Char Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.59{
+mso-style-name:"HTML 预设格式 Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.60{
+mso-style-name:"pre Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.61{
+mso-style-name:"普通\(网站\) Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.62{
+mso-style-name:"普通\(网站\) Char Char Char Char Char Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+mso-pagination:widow-orphan;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:Calibri;
+mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;
+mso-font-kerning:1.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+
+table.MsoTableGrid{
+mso-style-name:网格型;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-border-top-alt:0.5000pt solid rgb(0,0,0);
+mso-border-left-alt:0.5000pt solid rgb(0,0,0);
+mso-border-bottom-alt:0.5000pt solid rgb(0,0,0);
+mso-border-right-alt:0.5000pt solid rgb(0,0,0);
+mso-border-insideh:0.5000pt solid rgb(0,0,0);
+mso-border-insidev:0.5000pt solid rgb(0,0,0);
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:Calibri;
+mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;
+mso-font-kerning:1.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+margin-top:72.0000pt;
+margin-bottom:72.0000pt;
+margin-left:54.0000pt;
+margin-right:54.0000pt;
+size:595.3000pt 841.9000pt;
+layout-grid:15.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;text-justify-trim:punctuation;" ><!--StartFragment--><div class="Section0"  style="layout-grid:15.6000pt;" ><table class=MsoTableGrid  border=0  cellspacing=0  style="border-collapse:collapse;width:511.7500pt;mso-table-layout-alt:fixed;
+border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr><td width=852  valign=top  colspan=3  style="width:511.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal  align=justify  style="text-align:justify;text-justify:inter-ideograph;mso-outline-level:2;" ><b><span style="mso-spacerun:'yes';font-family:华文行楷;color:rgb(0,0,0);
+font-weight:bold;font-size:14.0000pt;mso-font-kerning:1.0000pt;" >自我介绍:</span></b><b><span style="font-family:华文行楷;color:rgb(0,0,0);font-weight:bold;
+font-size:14.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:24.0000pt;mso-char-indent-count:2.0000;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:1.0000pt;" >面试官您好！我叫秦修圣，来自河北邯郸，今年25岁，2015年毕业于北京东方大学，所学的技术是计算机科学与技术，毕业之后就在北京入职某某某有限科技公司从事java行业开发工作，有四年工作经验，之前做过的有五个项目，分别是医疗和教育这方面的项目，使用的技术就是springBoot，SpringCloud，我在小组当中也能跟上项目的进度，现在对这些技术能够熟练掌握，在工作中能够做到认真负责，喜欢钻研一些有意思的技术，提升自己，对于来咱公司面试，也是了解了咱们公司，也是非常不错的，而且公司周边环境也是很好，正好咱们公司在招收java开发工程师，也就积极地投了简历来面试，也希望能够给您一个好印象，能够在咱们公司稳定发展下去，奉献自己的一点贡献。以上就是我得一个简单的自我介绍，谢谢！</span><b><span style="font-family:华文楷体;font-weight:bold;font-size:14.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr><td width=60  valign=top  style="width:36.4500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:7.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:7.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=718  valign=top  style="width:431.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >该应用主要实现了教务系统的系统，营销，招生，班级，学员等方面的管理。用户通过浏览器访问，到Jsp的页面，然后通过URL地址，调用Controller，Controller调用Services，然后Sevices调用Mapper来完成对数据库的操作，数据库使用的是Mysql，服务器是Tomcat，是以小组形式开发的，各个模块的大致功能都差不多，系统模块，主要包含员工管理，角色管理，角色变更权限管理，权限变更等模块，其中员工管理，角色管理等主要实现了比如按照性别查找，姓名查找，以及增加删除，修改的操作。</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="text-align:justify;text-justify:inter-ideograph;mso-outline-level:2;" ><b><span style="mso-spacerun:'yes';font-family:华文行楷;color:rgb(0,0,0);
+font-weight:bold;font-size:14.0000pt;mso-font-kerning:1.0000pt;" >注册登录</span></b><b><span style="font-family:华文行楷;color:rgb(0,0,0);font-weight:bold;
+font-size:14.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >再做注册的时候，我们根据公司提供的API文档，找到对应的发送短信的接口写入到我们的controller当中，在我们的service层中生成验证码，这个验证码使用random随机数生成，当时我们控制这个随机数为六位数这个范围，也就是大于等于100000小于等于999999，得到验证码后，将验证码存到我们的redis当中，并且设置这个验证码的过期时间，因为这个验证码并不会一直都有用，用户使用一次之后，就没有什么太大的用户了，处理好这些后，我们将用户的手机号和验证码放到一个map集合当中，然后将整个集合发送到rabbitMQ指定的队列上等待被消费，这里用rabbitTemplate这个模板调用converAndSend这个方法便可以直接塞入到指定的队列当中，我们在调用短信接口阿里大于的时候，因为我们这个是一个微服务的项目，所以我们专门写了一个工程，这个工程就是专门为了获取rabbitMQ队列上的数据</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >，</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >调用阿里大于给我们客户发送短信用的，在这里我们写了一个消息监听类，引入@RabbitListener和@Component以及@RabbitHandler便可消费我们rabbitMQ上的消息，我们往rabbmtMQ传的时候用的MAP集合装的，获取的时候当然也就用Map集合来进行获取，我们在使用阿里云发送短信时，他就提供给我们一个短信工具类，这个短信工具来就可以自动的帮我们发送短信了，我们的短信模板，短信签名，手机号在阿里云官网就可以直接弄好了，他就</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >可以</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >直接给我们指定的手机发送短信，然后我们的短信监听类在使用阿里云提供的的短信工具类这些模板和签名的时候，直接使用@Autowired注入就好了，然后调用工具类里的发送短信方法，便可成功发送短信，我们用户在进行注册的时候，输入验证码后，去拿着我们验证码和我们redis缓存当中的验证码做对比，如果验证码为空和输入有误，则提示用户验证码有问题，如果正常的话则对我们的用户密码进行加密，这里加密的时候采用的是Bcrypt加密算法，我们当时也考虑过用MD5加密，但是后来发现这个东西能够被破解，而Bcrypt这个东西里面有时间戳，时间戳这个东西是几乎不可能被破解的，Bcrypt这个加密算法是Spring Security安全框架提供的，所以我们只需要引入Spring Security这个依赖便可以了，但是我们们引入这个安全框架之后，所有的地址就得被安全框架所控制了，而我们只是用单纯的加密算法，所用这个时候我们建立一个安全配置类，里面引入@Configuration 和@EnableWebSecurity这两个注解，便可配置所有的地址匿名访问，在启动类里面bean注入BCryptPasswordEncdor就可以加密了，我们再进行登陆效验密码的时候，BCryptPasswordEncdor给我们提供了两个方法，encode和matches方法，用encode方法进行加密，matches方法进行用户前台传入的密码和我们数据库加密后的密码进行比对，我们在登录的时候，选择了基于JWT的Token认证机制，客户端使用用户名和密码进行请求登陆，服务端收到请求，去验证用户名和密码，验证成功后，服务端会发送一个Token，再把这个Token发送给客户端，客户端收到Token后把他存储起来，比如经他放到cookie当中，客户端每次向服务器请求资源的时候，都会带着这个Token串，服务端收到请求后，会拿着前台传过来的Token串和我们服务端的Token串进行对比验证，成功就返回给客户请求的数据，</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >创建token方式首先导入JWT依赖，设置签发时间，设置密钥，每次的token都是不一样的，因为载荷当中存在时间.</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >怎么收费的；银行接口怎么对接的；实名认证怎么收费的；</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >前端传入密码怎么不是明文传输的；</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-outline-level:2;" ><b><span style="mso-spacerun:'yes';font-family:华文行楷;color:rgb(0,0,0);
+font-weight:bold;font-size:14.0000pt;mso-font-kerning:1.0000pt;" >支付:</span></b><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >支付宝在开发时需要先申请注册成为支付宝的开发者,在蚂蚁金服官网上面注册一个开发者账号，上面有关于开发者的文档和需要的SDK.在配置里面主要配置我们的AppId,用户名,密码,公钥和私钥(一般是公钥加密私钥解密或者私钥加密公钥解密生成秘钥后在开发者平台进行秘钥配置最后就可以得到支付宝的公钥了)还有回调地址.把这些都配置完以后,我们就可以下载对应的SDK.首先使用SDK时需要提供APPID,公钥私钥还有回调地址.里面有return_url和nitify_url.由于平台在开发时,公司的资质申请的比较慢,服务器还没有搭建好,所以在开发时用的是沙箱环境进行开发.沙箱环境需要Android手机下载一个沙箱的安装包,进行沙箱环境的一个搭建.搭建完进行开发时支付宝网关需要更改一下,改成dev,也就是一个测试环境.</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >整个的一个流程就是当用户点击下单时候,需要调用支付接口,所以我们把支付接口专门写在单独的controller里.在支付宝调用时,我们需要传很多参数.支付宝接口有公共参数和请求参数.公共参数在传的时候用到了ailipayconfig的一个工具类,类里提供了APPID,公钥秘钥还有回调地址.然后我们调用支付宝封装的一个httpclient请求.请求参数有订单号,金额还有商品描述.这些传完了以后支付宝自动调取支付页面,由用户进行扫码付款.在第一次请求回调以后会发送两次请求,一个是同步请求,一个是异步请求.异步请求不一定和同步请求一起回来.同步请求是针对于用户,所以给用户提供了一个页面,提示用户付款成功了.为了提高平台的安全性,我们用到了验签的操作.我们拿到支付宝对应的一个接口demo,验签时我们用到了cachetve的一个方法,我们只需要传递由支付宝同步请求过来的参数,拿到以后去验签,验签成功以后跳转到seccese,失败返回file.成功以后给用户展示付款成功的页面,失败了就展示失败的页面.验签结束以后就证明整套流程已经结束了,这个时候我们需要改变订单状态,添加一条支付日志.在开发当中我们用的是沙箱环境,所以我接不到异步的请求,但是在后面的测试当中又进一步把这个功能完善了.刚开始使用的是沙箱环境,支付宝要求异步请求必须是在公网服务器地址,当项目上线前要进行测试,那个时候服务器已经搭建好了,这个时候又重新把代码进行完善.</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="text-align:justify;text-justify:inter-ideograph;mso-outline-level:2;" ><b><span style="mso-spacerun:'yes';font-family:华文行楷;color:rgb(0,0,0);
+font-weight:bold;font-size:14.0000pt;mso-font-kerning:1.0000pt;" >课程搜索 </span></b><b><span style="mso-spacerun:'yes';font-family:华文行楷;color:rgb(0,0,0);
+font-weight:bold;font-size:14.0000pt;mso-font-kerning:1.0000pt;" >cros</span></b><b><span style="font-family:华文行楷;color:rgb(0,0,0);font-weight:bold;
+font-size:14.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >搜索模块使用的是elasticsearch来完成，ElasticSearch是一个基于Lucene的搜索服务器,他是有一个可视化界面叫head,但是这个head需要布一些</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >环境</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >,就是node.js还有npm（Node.js 平台的默认包管理</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >工</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >具。通</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >过 np</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >m 可以安装、共享、</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >分发</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >代码,管理项目依赖关系。）</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;
+background:rgb(255,255,0);mso-highlight:rgb(255,255,0);" >之</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >后的话牵扯到就是把数据库的信</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >息导</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >导到索引库里面,我们会用</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >logstarts</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >配置好数据库连接信息,之后放到ElasticSearch配置文件中达到导索引的目的.之后在做的时候也会遇到问题,就是ElasticSearch他不支持跨域的,我们需要在elasticSearch.yml里面加两条命令,设置为true让他允许跨域。另外在处理搜索关键字解析时用到了ik分词器，默认的中文分词是将每个字看成一个词，这显然是不符合要求的，所以我们需要安装中文分词器来解决这个问题。IK提供了两个分词算法ik_smart 和 ik_max_word其中 ik_smart 为最少切分，ik_max_word为最细粒度划分,我们在项目中使用的是ik_max_word模式。</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >ES的核心搜索引擎是通过倒排索引实现的，说倒排索引前我先说一下正排索引，它是通过关键词去文档中直接查找相应的单词，而倒排索引则不同，它是先把文档中的内容切分成词条，再经过词干还原、不区分大小写等方式转变成词项存储在倒排索引的数据结构中。倒排索引的数据结构包括由单词组成的词典、单词索引以及关键词出现过的文档编号。当用户在文本框中输入关键词后，es搜索引擎会先去词典中进行查找，找到后会根据单词索引展示文档内容。</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >因为这个吐槽、点赞、评论操作，数据量较大，操作的特别频繁，价值很低，当时我们也考虑过用redis，可是我们都知道redis是把数据存储到内存当中的，其缓存的性质远远大于数据存储的性质，并且我们的这些用户的吐槽评论也许对我们来说不重要，但是 对于用户来说是比较重要的， 所以当时我们选择mongodb来进行存储，原因：mongodb是一个跨平台的，面向文档的数据库，支持数据结构非常松散，是类似json的bosn格式，且支持复杂的数据类型，再操作增删改查可以添加很多条件，就像SQL数据库一样灵活</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >之前用的都是mongodb-driver的一个驱动包，后来就流行了springdatamongodb，吐槽模块采用springdatamongodb这门技术，它是SpringData之一，是操作mongoDB的持久层框架，他的底层已经帮助我们封装好了mongodb-driver，我们在具体操作的时候，只要引入springdatamongodb依赖包能用了</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >分页操作，需要我们依赖common这个工程，common工程可以直接调用里面的分页等功能，因为我们做的是spring cloud微服务，要涉及到数据之间的传递，需要实现一个serializeable这个接口，继承mongodbrepostry实现类便可进行基本操作</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >吐槽查询功能，根据父id查询并进行分页，这里分页用的是pageable,这个pageable是个接口，它提供了很多分页的参数，我们需要通过pageRequest.of传分页页数和每页条数就好了</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >在进行添加吐槽的时候 根据idworker自增一个主键值，再使用这个主键值进行执行添加方法、</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >我们在吐槽点赞的时候，首先我们判断用户是否点过赞，使用redistemplate调用get方法获取记录，然后进行判断记录是否为空，如果为空的话，说明用户并没有点过赞，我们就使用service调用点赞的方法进行根据用户id进行点赞，并且将记录通过redistemplate调用set方法存储该名用户的点赞记录放到redis当中，如果不为空则返还给我们的前台告知不能重复点赞</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >Java链接mongodb的时候分5步</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >1.首先得获得mongodb的链接 使用mongodbClient来选择端口 默认端口是27017</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >2.选择对应的数据库 通过mongodbClient调用getdatabase这个方法选择自己的数据库名称</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >3.根据数据库调用getcollection方法选择对应的集合</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >4.如若是查询集合内的所有文档（一个文档代表一条数据）直接使用find方法查询后，for循环遍历输出便可查询全部</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >5.打开mongodb这个链接后，我们也需要关闭这个链接mongodbClient调用close即可关闭</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >如果我们要进行多条件查询的时候，我们可以用 new BasicDBObject来构建查询条件，这里面存放的都是键值对，如果是多条件的话，就可以再new BasicDBObject中再嵌套一个实 &nbsp;&nbsp;现多条件查询</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >添加操作直接使用insertOne即可添加，由于我们这个mongodb里面存放的都是bosn格式，所以再添加的时候，直接new hashmap，在map里通过put方法添加好数据后，用document对象可在调用insertone方法进行添加</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >你的工程是如何操作MongoDB的？</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >在之前项目中都是引入mongodb-driver</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >这个驱动包的，后期用的是springdatamongodb</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >在项目的哪些场景下使用MongoDB ? &nbsp;&nbsp;&nbsp;</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >吐槽 、文章评论</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >为什么在吐槽和文章评论中使用Mongodb而不使 用mysql?</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;吐槽和评论都是数据量较大且价值较低的数据，为了减轻mysql的压力，我们使用 mongodb</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >面试官：项目中搜索为什么要选择使用Elastic search？</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >面试者：</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >Elasticsearch是一个实时的分布式搜索和分析引擎。它可以帮助你用前所未有的速度去处理大规模数据。ElasticSearch是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。Elasticsearch是用Java开发 的，并作为Apache许可条款下的开放源码发布，是当前流行的企业级搜索引擎。设计用 于云计算中，能够达到实时搜索，稳定，可靠，快速，安装使用方便</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >优点</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >1.elastcisearch是分布式的。不需要其他组件，分发是实时的。</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >2.处理多租户不需要特殊配置，而solr则需要更多的高级设置。</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >3.elasticsearch采用gateway的概念，使得完备份更加简单。</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >4.各节点组成对等的网络结构，某些节点出现故障时会自动分配其他节点替其进行工作。</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >面试官：能说说ES和solr 的差别吗？</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >面试者：</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elasticsearch与Solr的比较总结</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >Solr利用Zookeeper进行分布式管理，而Elasticsearch自身带有分布式协调管理功能</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >Solr支持更多格式的数据，而Elasticsearch仅支持json文件格式</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >Solr官方提供的功能更多，而Elasticsearch本身更注重于核心功能，高级功能多有第三方插件提供</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" >2</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >Solr在传统的搜索应用中变现好于Elasticsearch，但在处理实时搜索应用时效率明显低于Elasticsearch</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" >Solr是传统搜索应用的有力解决方案，但Elasticsearch更实用于新兴的实时搜索应用</span><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=73  valign=center  style="width:44.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=60  valign=top  style="width:36.4500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:7.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=718  valign=top  style="width:431.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal  style="margin-left:0.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-outline-level:3;" ><b><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:10.5000pt;" >面试官题</span></b><b><span style="font-family:宋体;font-weight:bold;font-size:10.5000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >1.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >你好，请先做一下自我介绍</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >2.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >目前离职多久了？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >3.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >离职到现在这段时间是一直在找工作吗？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >4.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >目前住在哪个，离的远吗？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >5.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >学历是本科吗，学信网能查吗？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >6.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >具体工作多长时间了，几份工作经历?</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >7.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >介绍一下上家公司的工作内容？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >8.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >在这家公司工作多长时间？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >9.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >离职的原因？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >10.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >是主动离职还是被动离职？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >11.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >公司是做什么业务的？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >12.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >在这家公司主要负责的项目是？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >13.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >这个项目具体的负责的内容</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >14.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >这个项目几个后台开发，如何分工作？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >15.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >项目已经上线了吗?</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >16.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >除了这个项目，还负责其它的项目吗</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >17.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >这家公司在什么地方？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;mso-list:l0 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" ><span style='mso-list:Ignore;' >18.<span>&nbsp;</span></span></span><![endif]><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >未来3年的职业规划？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >19.&#9;对下一份工作的内容，环境，领导有什么要求吗？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >20.&#9;你的性格（优缺点）？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >21.&#9;加班可以接受吗？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >22.&#9;期望的薪资是多少？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >23.&#9;上份工作的薪资是多少？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >24.&#9;上份薪资是税前还是税后？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >25.&#9;有其它什么补助吗?</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >26.&#9;薪资结构呢？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >27.&#9;缴纳五险一金了吗？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:21.0000pt;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;
+mso-char-indent-count:0.0000;" ><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;" >28.&#9;我们会有一个复试，还有什么问题需要问吗？</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:15.0000pt;mso-font-kerning:0.0000pt;" >人事问题：</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：你好，先自我介绍一下</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >您好，我是兰燕梁，我来自河北省廊坊市，毕业于大连科技学院，学的也是计算机专业，在大连那边也工作了一段时间，觉得自己的能力没有什么提升，就回到了北京，想在北京找到落脚之地。我个人有三年的工作经验，之前也是一直从事JAVA开发的工作，总共做过4个项目，都涉及到了电商类、房产类和社交类的项目，使用的技术都是市场上比较主流的springboot、springcloud，我在小组所负责的模块也都能及时的完成工作量，现在我对这些技术能够熟练掌握。我本人性格沉稳，在工作上能够做到认真负责，喜欢思考，喜欢不断的挑战自己，突破自我，但是在沟通方面不是非常的良好需要更加改进好好锻炼。对于来咱们公司进行面试，也是了解了咱们公司，在这个中小型企业当中算得上是做的非常不错的，而且公司的周边环境也很不错，正好看到咱们公司再招收JAVA开发，所以我也是积极的投了简历来面试。也希望这次能够面试成功，能够在咱们公司稳定的发展下去，奉献自己的一点微薄之力。以上就是我的简单的自我介绍，谢谢。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >那你目前是离职，还是在职？</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >面试者：目前已经离职，年前离职，过完年刚回来找工作</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >那上份工作的离职原因呢？</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >主要原因是因为，公司的2个项目运作比较稳定，公司在18年的规划要做开展其它的业务，所以不需要太多的技术岗。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >那个是主动离职、还是被动离职</span><span style="font-family:微软雅黑;color:rgb(0,0,255);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >算是主动吧，因为领导也沟通征求我们意见了，我当时想如果在公司维护项目，是挺稳定的工作，可能对自己技术方面没有提升，所以选择离职。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >你在上家公司工作两年是吧？</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >对，两年时间，其实在这个公司也是让我学会很多的。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >从你家到上家公司远么？怎么去的？</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >知春路10号线到呼家楼</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >公司是做什么业务的？</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >公司主要是个外包公司，通过接到别人给的任务我们进行完成，最近的两个项目一个社交类型的一个是房产类型的。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：这个项目几个后台开发人员</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >加我一共4个。</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：你的职业规划？</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >首先，自己会在技术的岗位一直发展下去，同时也通过自己的学习和工作积累让技术方面不段的提升，另一方面，也希望自己先把工作稳定下来，先更好的工作开展起来，能过自己技术的提升，工作能力的提升，也让自己在工作中发展更好。</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：期望的薪资是多少？</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >期望的薪资是13K</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：好的，我们技术这边需要复试一下，你稍等一下。</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：好的，谢谢</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:15.0000pt;mso-font-kerning:0.0000pt;" >技术问题：</span></b><b><span style="font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >项目为什么采用微服务</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者</span></b><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >：</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >在微服务这个概念流行之前，我们使用的是单体式应用程序，但是在时间的推移和技术的进步与系统的愈发庞大之后，我们发现修改一个小的功能需要将我们原有程序整个的进行更新和部署，显然是不合理而且成本也非常的大，不能满足我们的需求。微服务是一种软件架构风格，它是以专注于</span><b><span class="41"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >单一责任与功能的小型功能区块</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >为基础，利用模组化的方式组合出复杂的大型应用程序，各功能区块使用与语言无关的 API（例如 REST）集相互通讯，且每个服务可以被单独部署。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;
+background:rgb(255,255,255);mso-shading:rgb(255,255,255);" ><o:p></o:p></span></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);" >说一下你对springcloud的理解</span><span style="font-family:微软雅黑;font-weight:normal;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" ><o:p></o:p></span></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Spring Cloud是一系列框架的有序集合。它利用Spring Boot的开发便利性巧妙地简化了分布式系统基础设施的开发，如服务发现注册、配置中心、消息总线、负载均衡、熔断器、数据监控等，都可以用Spring Boot的开发风格做到一键启动和部署。它是给开发者留出了一套简单易懂、易部署和易维护的分布式系统开发工具包。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Springcloud与springboot是依赖关系，但是只是单向依赖，springcloud的开发必须是基于springboot开发的，但是springboot并不依赖于cloud。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Eureka：</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Spirng Cloud Eureka使用Netflix Eureka来实现服务注册与发现。它既包含了服务端组件，也包含了客户端组件，并且服务端与客户端均采用java编写，所以Eureka主要适用于通过java实现的分布式系统，或是JVM兼容语言构建的系统。其实eureka跟我们在采用dubbo开发的时候zookeeper的作用是一样的，都是一个注册中心。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Feign：</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >在 Spring Cloud 中使用 Feign，可以做到使用 HTTP 请求访问远程服务，就像调用本地方法一样的，开发者完全感知不到这是在调用远程方法，更感知不到在访问 HTTP 请求。（</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(0,255,0);mso-highlight:rgb(0,255,0);" >feign负载均衡策略？客户端负载均衡+服务端的负载均衡概念</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >）</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >其实关于feign还有一个负载均衡策略，其实feign负载均衡的出现是一个巧合，cloud中本身已经存在了一种负载均衡的策略Ribbon在客户端负载均衡，ribbon是通过url来调用的，而我们java是面向对象的，所以ribbon就显得有些不合时宜，从而出现了feign。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Ribbon的负载均衡实现是在客户端调用时，客户端必须要知道我们的url才能进行调用，而我们的feign只需要调用我们本身的需要访问的接口，对于需要做负载均衡策略的接口上@FeignClient注解中添加我们所需要的负载均衡策略即可。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Hystrix：</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >在微服务架构中通常会有多个服务层调用，基础服务的故障可能会导致级联故障，进而造成整个系统不可用的情况，这种现象被称为服务雪崩效应。服务雪崩效应是一种因&#8220;服务提供者&#8221;的不可用导致&#8220;服务消费者&#8221;的不可用,并将不可用逐渐放大的过程。而Hystrix 能使你的系统在出现依赖服务失效的时候，通过隔离系统所依赖的服务，防止服务级联失败，同时提供失败回退机制，更优雅地应对失效，并使你的系统能更快地从异常中恢复。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Config：</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >在分布式系统中，由于服务数量巨多，为了方便服务配置文件统一管理，实时更新，所以需要分布式配置中心组件。在Spring Cloud中，有分布式配置中心组件spring cloud config ，它支持配置服务放在配置服务的内存中（即本地），也支持放在远程Git仓库中。在spring cloud config 组件中，分两个角色，一是config server，二是config client。它的作用是我们集中化处理服务配置的问题。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Bus：</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);" >spring cloud是按照spring的配置对一系列微服务框架的集成，spring cloud bus是其中一个微服务框架，用于实现微服务之间的通信。spring cloud bus整合 java的事件处理机制和消息中间件消息的发送和接受，主要由发送端、接收端和事件组成。针对不同的业务需求，可以设置不同的事件，发送端发送事件，接收端接受相应的事件，并进行相应的处理。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >如果我们更新码云中的配置文件，只有重新启动程序才会读取配置。 那我们如果想在不重启微服务的情况 下更新配置如何来实现呢? 我们使用SpringCloudBus来实现配置的自动更新。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Zuul：</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Zuul是Netflix开源的微服务网关，他可以和Eureka,Ribbon,Hystrix等组件配合使 用。Zuul组件的核心是一系列的过滤器，这些过滤器可以完成以下功能： </span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ># 身份认证和安全: 识别每一个资源的验证要求，并拒绝那些不符的请求 </span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ># 审查与监控： </span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >## 动态路由：动态将请求路由到不同后端集群 </span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ># 压力测试：逐渐增加指向集群的流量，以了解性能</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ># 负载分配：为每一种负载类型分配对应容量，并弃用超出限定值的请求 </span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ># 静态响应处理：边缘位置进行响应，避免转发到内部集群 </span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ># 多区域弹性：跨域AWS Region进行请求路由，旨在实现ELB(ElasticLoad Balancing)使用多样化</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" ><o:p></o:p></span></b></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >spirngcloud组件在项目中如何使用的</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >我们项目拆分成若干个微服务模块，然后使用eureka 作为服务的注册中心实现注册信息集中化管理，若干微服务将自身服务注册到eureka下，然后微服务之间的调用是通过feign来实现的（其实springcloud微服务之间的调用时基于rest实现的，这个与dubbo的rpc远程服务调用有区别）</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-left:0.0000pt;text-indent:18.0000pt;mso-char-indent-count:2.0000;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >同时为了方便实现鉴权、访问控制，我们使用zuul做了一个对接前台的网关模块，同时这些微服务的配置信息，我们采用config组件，将配置信息托管在gogs(码云、github)服务下，同时通过springCloud-bus消息总线实现配置信息变更后的消息通知已经完成配置更新操作。同时在系统健壮性方便我们引用如Hystrix技术，实现服务限流、熔断以及服务降级。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官： </span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:0.0000pt;" >说一下spring吧</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者： </span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >在平时的项目开发中，spring还是用的比较多的。Spring包含两个核心的概念IOC和AOP，在这我先说一下IOC吧。其实IOC就是控制反转，就是将创建对象的职责交给IOC容器去管理，这样对于开发人员来说，就从繁琐的对象交互中解脱出来。它的工作原理简单来说就是当</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >Spring 应用启动后，会读取应用程序提供的Bean配置信息，并在spring容器中生成一份相应的bean容器注册表，并根据这个注册表去实例化bean（利用java语言的反射机制实例化bean），并装配好bean之间的依赖关系，为上层应用提供准备就绪的应用环境。</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Spring 的IOC容器本质上就是一个基于工厂模式设计的factory类，Spring包含两个核心的接口BeanFactory和ApplicationContext，它会方便我们去集中管理我们的bean。在平时的开发中，我看过spring相关的源码，当spring应用启动的时候（IOC容器被加载时），ResourceLoader（资源加载类）会通过Resource接口中提供的方法加载Bean相关的配置信息，并转换成Bean的描述对象类--BeanDefinition，同时spring会将BeanDefiniton注册到BeanDefinitionRegistry实例对象中，其实这个注册容器底层维护了一个CurrentHashMap类型的变量，其中key为bean的名称，value为BeanDefiniton实例。这样当spring需要加载相关的bean时，会先从Bean缓存池中调用相关的对象，如果这个对象还没有被实例化，spring就会从注册列表中查找相关的BeanDefinition实例对象，通过这个对象描述的bean信息利用反射机制来实例化bean，来为我们的上层应用提供bean服务。以上呢，是spring IOC容器的运行过程。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Aop呢，就是面向切面编程，spring的aop是使用动态代理实现的，实现的方式包含JDK代理和CGLIB代理这两种。在我们的开发中基于jdk的代理模式要用的多一些。JDK代理模式中代理目标必须实现相关接口，同时这里涉及到两个核心的类，一个是InvocationHandler接口还有Proxy类，这两个都是jdk提供的，代</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >理对象要实现InvocationHandler接口中invoke方法，才能实现代理目标的方法增强(Proxy.newProxyInstance(targetObject.getClass().getClassLoader(),targetObject.getClass().getInterfaces(), this);）</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >Cglib是通过代理对象继承代理目标，并重写代理目标的方法，来实现方法增强的，当然如果一个类被final修饰的话，是没法用cglib代理的。在我们的项目中我们日志管理模块使用的是spring的代理。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=56  style="margin-top:0.0000pt;margin-bottom:0.0000pt;vertical-align:baseline;
+line-height:20.0000pt;mso-line-height-rule:exactly;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >springmvc的运行原理</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >项目在启动的时候，Tomcat加载解析web.xml,找到spring mvc的前端控制器</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >DispatcherServlet</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >,并且通过DispatcherServlet来加载springmvc的配置文件并完成相关初始化。DispatcherServlet接收到客户端请求，找到对应</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >HandlerMapping</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >，根据映射规则，找到对应的处理器（</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >Handler</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >）。调用相应处理器中的处理方法，处理该请求后，会返回一个</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >ModelAndView</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >。DispatcherServlet根据得到的ModelAndView中的视图对象，找到一个合适的</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >ViewResolver</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >（视图解析器），根据视图解析器的配置，DispatcherServlet将要显示的数据传给对应的视图，最后显示给用户。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >写一下冒泡排序</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >public</span></b><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >&#160;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >static</span></b><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >&#160;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >void</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;main(String[] </span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(106,62,62);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >args</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >) {</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >int</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;[] </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;= {3,6,8,20,9,11,35,61,17,2,1};</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//定义一个数组</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >for</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;(</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >int</span></b><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >&#160;</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >i</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;= 0; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >i</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&#60; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,192);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >length</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >i</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >++) {</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//第一个for循环遍历整个数组</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >for</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;(</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >int</span></b><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >&#160;</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;= 0; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&#60; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,192);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >length</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >-1; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >++) {</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//第二个for循环通过循环体内的if进行排序</span><span style="font-family:微软雅黑;color:rgb(63,127,95);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >int</span></b><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >&#160;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(106,62,62);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >temp</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//声明</span><u><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+text-decoration:underline;text-underline:single;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >temp</span></u><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >临时变量存储数据</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >if</span></b><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >(</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >[</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >]&#62;</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >[</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >+1]){</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//比较两个数据的大小</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;&#9;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(106,62,62);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >temp</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;= </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >[</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >];</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//比较大的存入临时变量 比较大的为空</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;&#9;</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;&#9;</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >[</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >] = </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >[</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >+1];</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//比较小的赋给前一个比较大的 &nbsp;比较小的为空</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;&#9;</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >[</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;background:rgb(192,192,192);mso-highlight:rgb(192,192,192);" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >+1] = </span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(106,62,62);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >temp</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//临时变量赋给比较小的</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;}</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;}</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;}</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >for</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;(</span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(127,0,85);
+font-weight:bold;font-size:9.0000pt;mso-font-kerning:1.0000pt;" >int</span></b><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >&#160;</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >i</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;= 0; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >i</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;&#60; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,192);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >length</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >; </span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >i</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >++) {</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(63,127,95);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >//循环整个排序完的数组</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;&#9;&#9;&#9;System.</span><b><i><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,192);
+font-weight:bold;font-style:italic;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >out</span></i></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >.println(</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >a</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >[</span><span style="font-family:微软雅黑;color:rgb(106,62,62);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >i</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >]);</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;&#9;}</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,0);
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >&#9;}</span><span style="font-family:微软雅黑;color:rgb(0,0,0);font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >多线程的优缺点</span><b><span style="font-family:微软雅黑;font-weight:bold;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:normal;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >优点：提高CPU的使用率、提高程序的工作效率。缺点：</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >如果有大量的线程同时工作，就会影响性能，因为CPU需要在他们之间切换、更多的线程需要更多的内存空间、多线程操作可能会出现线程安全或者死锁等问题</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >activemq与rabbitmq的区别</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者： </span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >activemq是java实现的，rabbitmq是Erlang语言实现的，理论上来说rabbitmq的性能要比activemq要更好一些，是非java语言的首选，因为activemq是java的，所以配合java语言更好。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >rabbitmq基于AMQP协议，AMQP主要就是由金融领域的软件专家们贡献出来的创意，一起打造出来的规范，粗略的从概念上来件AMQP首先满足的是金融系统的消息通讯业务。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试官：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >消息队列的应用场景</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-para-margin-top:0.0000gd;mso-para-margin-bottom:0.0000gd;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;
+font-size:9.0000pt;mso-font-kerning:1.0000pt;" >面试者：</span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;font-size:9.0000pt;
+mso-font-kerning:1.0000pt;" >消息队列中间件是分布式系统中重要的组件，主要的作用就是应用解耦，异步消息处理，流量削锋等问题。</span><span style="font-family:微软雅黑;font-size:9.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;
+margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:2.0000;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+line-height:150%;" ><span style="font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=73  valign=center  style="width:44.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
+border-top:none;mso-border-top-alt:none;border-bottom:none;
+mso-border-bottom-alt:none;" ><p class=MsoNormal ><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';
+font-size:10.5000pt;mso-font-kerning:1.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:1.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;
+mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
